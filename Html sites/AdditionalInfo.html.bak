@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang = "en">
+	
+	<head>
+		<meta charset="UTF-8">
+		<title>Additional Info</title>
+		<link rel="stylesheet" type="text/css" href="../CssFiles/Poutine.css" />
+	</head>
+	
+	<body>
+		<h1 id="Top">Poutine!</h1>
+				
+		<div class="topnav"> <!--Used to make a navgation bar between all the webpages-->
+			<a class="active" href="index.html">Main Page</a>
+			<a href="History.html">The History</a>
+			<a href="AdditionalInfo.html">Additional Information</a>
+			<a href="Recipe.html">A Simple Poutine Recipe</a>
+			<a href="Facts.html">Fun Facts</a>
+			<a href="MainRefs.html">References used</a>
+		</div>
+		<hr>
+		
+		<h2>Additional Information!</h2>
+		<h3>When and which food chains started selling poutine:</h3>
+		<img src="../Images/Poutine/ThinkingEmoji.png" alt="Cute cartoon ThinkingEmoji" width=180>
+		<ul>
+			<li class="ListSpaces">One of the first Qu&eacute;bec franchises that first sold poutine is Frits. They started selling in 1985 but their stores closed in 1988.</li>
+			<li class="ListSpaces">In 1987, a Qu&eacute;bec based Burger King franchise convinced the store to sell poutine on their menu and suceeded. Soon it began to become so popular that they added it to their menu for all Qu&eacute;bec outlets and during the following year they started to sell it in Hawkesbury, Ontario as well.</li>
+			<li class="ListSpaces">McDonalds started to add poutine on their menu in Qu&eacute;bec stores in the 1990s. As soon as they did that poutine soon became part of fast food fame. After a while McDonalds also added their poutine to other stores across Canada too.</li>
+			<li class="ListSpaces">Harvey&rsquo;s is another one of the first few fast food resturants that started selling poutine on their menu. They decided to follow the &quot;trend&quot; of adding poutine to their menus in 1992 and added it to all their stores as well.</li>
+		</ul>
+		<p class="References"><a href="MainRefs.html">(Canadian Encyclopedia, 2019)</a></p>
+		<h3>Informational Facts:</h3>
+		<img src="../Images/Poutine/HappyEmoji.png" alt="Cute smiling emoji" width=160>
+		<ul>
+			<li class="ListSpaces">As popularity increased for poutine, different types of poutine combinations were created. An example being Italian poutine, which would be made with spaghetti sauce or sausage in place of gravy.</li>
+			<li class="ListSpaces">While poutine&rsquo;s populatrity increased in other places around the world it wasn&rsquo;t reffered to as poutine in other places, it was called Raspoutine instead.</li>
+			<li class="ListSpaces">Unquestionanly this dish became the symbol of the Qu&eacute;bec province.</li>
+			<li class="ListSpaces">In 1990, Paul Wells, a journalist quoted &quot;It&rsquo;s become Qu&eacute;bec in a bowl, a shorthand symbol for the province which finds its way into editorial cartoons, comic monologues, and anywhere somebody needs to evoke Qu&eacute;bec and get a laugh at the same time.&quot;</li>
+		</ul>
+		<p class="References"><a href="MainRefs.html">(Canadian Encyclopedia, 2019)</a></p>
+		<a href="#Top" class="backwards">Back to Top</a>
+	</body>
+</html>

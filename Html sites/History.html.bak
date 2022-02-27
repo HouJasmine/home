@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang = "en">
+	
+	<head>
+		<meta charset="UTF-8">
+		<title>History of Poutine</title>
+		<link rel="stylesheet" type="text/css" href="../CssFiles/Poutine.css"/>
+	</head>
+	
+	<body>
+		<h1 id="Top">Poutine!</h1>
+	
+		<div class="topnav"> <!--Used to make a navgation bar between all the webpages-->
+			<a class="active" href="index.html">Main Page</a>
+			<a href="History.html">The History</a>
+			<a href="AdditionalInfo.html">Additional Information</a>
+			<a href="Recipe.html">A Simple Poutine Recipe</a>
+			<a href="Facts.html">Fun Facts</a>
+			<a href="MainRefs.html">References used</a>
+		</div>
+		<hr>
+		
+		<h2>History of Poutine!</h2>
+		<p class="MarginBottom"> 
+		If you don&rsquo;t know about this famous Qu&eacute;b&eacute;cois dish then you are really missing out! It&rsquo;s a wonderful dish made with fresh-cut fries, cheese curds, and gravy! This special dish soon became an iconic symbol of Qu&eacute;b&eacute;cois cuisine &amp; culture.
+		Poutine first appeared in late 1950s of Qu&eacute;bec in some rural snack bars. Though the precise origin is debated a lot it, there is a finalized decision that the dish was developed in many stages.
+		</p>
+		<img id="Center" src="../Images/Poutine/SnackBarPhoto.jpg" alt="People sitting on chairs with barrels as tables in a wine cafe/resturant" width=300> <!--Image used to reference old rural snack bars-->
+		<p class="MarginTop">
+		There are different claims to how or who created poutine first but here are 2 of the most talked about ways that poutine started:
+		</p>
+			<ol>
+				<li class="HistoryListSpaces">In a small town named Warwick, a caf&eacute; called Caf&eacute; Ideal (later changed to Le Lutin qui rit) said they first created poutine due to the fact that a regular customer in 1957 wanted to add cheese curds to their fries. Soon more people kept ording the same thing and some even customised theirs a little. Some added ketchup&sol;vingegar along with the combo. The cafe didn&rsquo;t use plates until they saw that putting the order in bags were becoming messy. (1963) Though this was a wonderful combo already, customers started to complain that their food would get cold easily so the owner of the caf&eacute; decided to drown this dish in hot gravy to keep it warm.
+				</li>
+				<li class="HistoryListSpaces">In another small town called Drummondville, Jean-Paul Roy also claimed that he created poutine at his drive-in (Le Roy Jucep) in 1964. They said since 1958 they have been serving their french fries in &quot;special sauce&quot;(called the sauce patate sauce). Soon the owner noticed that customers started adding cheese curds to their fries and so decided to sell bags of cheese curds at their snack counter. Later on when it became even more popular he made it an offical menu item called fromage patate sauce.
+				</li>
+			</ol>
+		<p class="MarginBottom">
+		By the year 1990, Poutine became more popular across Canada and beyond. It started becoming more popular in small towns of south-eastern Qu&eacute;bec and was then introduced to Qu&eacute;bec City in 1969 from a food truck named Ashton Snack Bar. Later on in 1983, Poutine was also introduced to Montreal.<a class="References" href="MainRefs.html">(Canadian Encyclopedia, 2019)</a></p>
+		<a href="#Top" class="backwards">Back to Top</a>
+	</body>
+	
+</html>
